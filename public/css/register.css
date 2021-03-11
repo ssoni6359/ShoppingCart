@@ -1,0 +1,41 @@
+body{
+    background-color: #e3fdfd;
+}
+h1{
+    padding: 40px;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 5rem;
+    width: 600px;
+    margin: auto;
+}
+.navbar{
+    font-size: 15px;
+}
+.logo{
+    width: 60px;
+    height: 40px;
+}
+footer{
+    background-color: #212529;
+    color: white;
+    padding-top: auto;
+    padding-left: 45%;
+    height: 30px;
+    font-size: 15px; 
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+}
+.formdiv{
+    padding: 10px;
+    width: 20%;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 3px solid black;
+}
+.apnbtn{
+    margin-left: 80px;
+    margin-bottom: 20px;
+}

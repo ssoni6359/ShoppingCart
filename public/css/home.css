@@ -1,0 +1,63 @@
+body{
+    background-color: #e3fdfd;
+}
+h1{
+    padding: 40px;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 5rem;
+    width: 600px;
+    margin: auto;
+}
+.navbar{
+    font-size: 15px;
+}
+.photo{
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 20px;
+}
+
+.logo{
+    width: 60px;
+    height: 40px;
+}
+
+.btn {
+    background: #3db3a3;
+    background-image: -webkit-linear-gradient(top, #3db3a3, #20618a);
+    background-image: -moz-linear-gradient(top, #3db3a3, #20618a);
+    background-image: -ms-linear-gradient(top, #3db3a3, #20618a);
+    background-image: -o-linear-gradient(top, #3db3a3, #20618a);
+    background-image: linear-gradient(to bottom, #3db3a3, #20618a);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: Arial;
+    color: #eeedf5;
+    font-size: 25px;
+    margin: auto 40%;
+    text-decoration: none;
+  }
+  .btn:hover {
+    background: #1f72a6;
+    background-image: -webkit-linear-gradient(top, #1f72a6, #3498db);
+    background-image: -moz-linear-gradient(top, #1f72a6, #3498db);
+    background-image: -ms-linear-gradient(top, #1f72a6, #3498db);
+    background-image: -o-linear-gradient(top, #1f72a6, #3498db);
+    background-image: linear-gradient(to bottom, #1f72a6, #3498db);
+    text-decoration: none;
+  }
+
+  footer{
+      background-color: #212529;
+      color: white;
+      padding-top: auto;
+      padding-left: 45%;
+      height: 30px;
+      font-size: 15px;
+  }
